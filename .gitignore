@@ -1,0 +1,12 @@
+*.sln
+*.suo
+*.pdf
+*.pyc
+*.pyo
+*.cxml
+*.txt
+*.pyd
+*.npy
+*.npz
+*.jpeg
+*.png
